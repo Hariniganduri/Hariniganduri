@@ -1,4 +1,4 @@
-# Hi, I'm Your Harini 👋
+# Hi, I'm Harini 👋
 
 🎓 BTech 2nd Year Student
 🔐 Cybersecurity Enthusiast
