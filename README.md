@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Your Name 👋
 
-<!--
-**Hariniganduri/Hariniganduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech 2nd Year Student
+🔐 Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- Currently learning programming.
+- Interested in Cybersecurity.
+- Exploring problem solving and development.
+- Building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- C
+- Linux (Learning)
+- Networking (Learning)
+
+## Currently Learning
+- Data Structures and Algorithms
+- Computer Networks
+- Cybersecurity Fundamentals
+- Git and GitHub
+
+## Goals
+- Build real-world projects.
+- Participate in hackathons.
+- Contribute to open source.
+- Prepare for internships.
+
+
